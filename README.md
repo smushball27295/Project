@@ -10,4 +10,4 @@ There are a few things to note. There a lot of NAN values in the dataset which w
 
 A combination of models have been used and their performance has been evaluated.
 
-
+First, records with the earlier time window(0-2) are taken separately to test and compare the model's performance with other time windows
