@@ -14,16 +14,13 @@ First, records with the earlier time window(0-2) are taken separately to test an
 
 
 Model Building:
+Models used in this project are:
 
-Logistic Regression:
-Since this is a binary classification problem, I have chosen a few models based to predict based on their 
-Gaussian Naive Bayes:
-
-Boosting:
-
-SVM_Linear:
-
-SVM_radial: 
+Logistic Regression
+Gaussian Naive Bayes
+Boosting
+SVM_Linear
+SVM_radial 
 
 # Deploying models using Flask
 model.py - This contains code for our Machine Learning model to predict whether the person ends up in ICU or not
@@ -43,3 +40,6 @@ Navigate to URL http://localhost:5000
 Enter valid values in all input boxes and hit Predict
 
 ![prediction](https://user-images.githubusercontent.com/51070088/111088767-2f4c7980-84ff-11eb-95b1-e54d481b54c5.JPG)
+
+
+#PLEASE NOTE: There is a file model.py and a file model2.py. The difference in the files are the features and the number of models. Deployment has been done using logistic regression and a limited number of features.
