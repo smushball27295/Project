@@ -1,4 +1,4 @@
-# ASSESSMENT
+# Project
 
 Objective of the project: To predict whether a patient will end up in ICU or not.
 
