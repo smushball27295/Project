@@ -55,7 +55,7 @@ Futher more, this flask app has been hosted using AWS EC2 instance and these are
 1. Connect to EC2 instance 
 2. In the app.py change the last line of the script to app.run(host='0.0.0.0', port=8080)
 3. Upload the files app.py, model2.py, templates and requests.py to ec2 instance using winscp
-4. Install python using  yum install python3
+4. Install python using the command yum install python3
 5. Run it using python3 app.py
 
 This will ensure that we do not need a local machine to access flask.
