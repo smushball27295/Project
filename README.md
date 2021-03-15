@@ -1,6 +1,7 @@
 # ASSESSMENT
 
-Objective of the project: To predict whether a patient will end up in ICU or not 
+Objective of the project: To predict whether a patient will end up in ICU or not.
+
 Data cleaning involves imputing missing values and performing one-hot encoding.The goal here is to clean and make sure utilize most of the data in model building.
 
 Classfication models are used that can predict whether the patient will end up in ICU.
