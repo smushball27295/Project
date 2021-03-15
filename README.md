@@ -36,12 +36,12 @@ templates - This folder contains the HTML template to allow user to enter patein
 
 Run using command:
 python model.py
-This will a file model2.pkl
+This will give a file model1.pkl
 
 Run using command to acess Flask API
 python app.py
 
-Navigate to URL http://localhost:5000
+URL to access flask http://localhost:5000
 
 Enter valid values in all input boxes and hit Predict
 
