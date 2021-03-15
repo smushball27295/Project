@@ -19,10 +19,14 @@ The models have been only applied to the earliest window(0-2) due to time constr
 Model Building:
 Models used in this project are:
 
-Logistic 
+Logistic
+
 Gaussian Naive Bayes
+
 Boosting
+
 SVM_Linear
+
 SVM_radial 
 
 The performance and other issues such as multicollinearity have been discussed in the Project_submission.ipynb file. A variety of libraries has been imported for exploration purposes, please ignore them.
