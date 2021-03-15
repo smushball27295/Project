@@ -1,10 +1,9 @@
 # ASSESSMENT
 
 Objective of the project: To predict whether a patient will end up in ICU or not 
+Data cleaning involves imputing missing values and performing one-hot encoding.The goal here is to clean and make sure utilize most of the data in model building.
 
-datacleaning.py is used for data cleaning. It involves imputing missing values and performing one-hot encoding.The goal here is to clean and make sure utilize most of the data in model building.
-
-modelbuilding.py is used for buliding models that can predict whether the patient will end up in ICU.
+Classfication models are used that can predict whether the patient will end up in ICU.
 
 There are a few things to note. There a lot of NAN values in the dataset which will hinder the model buliding process. Therefore the best way would be to impute the missing values with previous values. However this process leads to having NAN values in earlier time windows. This will lead to data loss and hinder the performance of the model. Therefore, the missing values have been imputed with mean values. 
 
