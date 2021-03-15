@@ -29,7 +29,7 @@ The performance and other issues such as multicollinearity have been discussed i
 
 
 # Deploying models using Flask
-model.py - This contains code for our Machine Learning model to predict whether the person ends up in ICU or not
+model.py - This contains code for our Machine Learning model to predict whether the person ends up in ICU or not.
 app.py - This contains Flask APIs that receives details through API calls and computes the precited value based on our model and returns it.
 request.py - This uses requests module to call APIs already defined in app.py and dispalys the returned value.
 templates - This folder contains the HTML template to allow user to enter pateint detail and displays the predicted result.
