@@ -48,7 +48,7 @@ Enter valid values in all input boxes and hit Predict
 ![prediction](https://user-images.githubusercontent.com/51070088/111088767-2f4c7980-84ff-11eb-95b1-e54d481b54c5.JPG)
 
 
-#PLEASE NOTE: There is a file model.py and a file model2.py. The difference in the files are the features and the number of models. Deployment has been done using logistic regression and a limited number of features.
+#PLEASE NOTE: There is a file project_submission.py and a file model2.py. The difference in the files are the features and the number of models. Deployment has been done using logistic regression and a limited number of features.
 
 
 Futher more, this flask app has been hosted using AWS EC2 instance and these are steps:
