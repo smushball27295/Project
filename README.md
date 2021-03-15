@@ -51,7 +51,7 @@ Enter valid values in all input boxes and hit Predict
 #PLEASE NOTE: There is a file project_submission.py and a file model2.py. The difference in the files are the features and the number of models. Deployment has been done using logistic regression and a limited number of features.
 
 
-Futher more, this flask app has been hosted using AWS EC2 instance and these are steps:
+Futher more, this flask app can been hosted using AWS EC2 instance with the following steps:
 1. Connect to EC2 instance 
 2. In the app.py change the last line of the script to app.run(host='0.0.0.0', port=8080)
 3. Upload the files app.py, model2.py, templates and requests.py to ec2 instance using winscp
