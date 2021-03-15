@@ -35,7 +35,7 @@ request.py - This uses requests module to call APIs already defined in app.py an
 templates - This folder contains the HTML template to allow user to enter pateint detail and displays the predicted result.
 
 Run using command:
-python model.py
+python model2.py
 This will give a file model1.pkl
 
 Run using command to acess Flask API
