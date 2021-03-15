@@ -45,6 +45,8 @@ URL to access flask http://localhost:5000
 
 Enter valid values in all input boxes and hit Predict
 
+![prediction2](https://user-images.githubusercontent.com/51070088/111093536-940fd000-850f-11eb-9311-f613dda8e726.JPG)
+
 ![prediction](https://user-images.githubusercontent.com/51070088/111088767-2f4c7980-84ff-11eb-95b1-e54d481b54c5.JPG)
 
 
