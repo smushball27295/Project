@@ -69,5 +69,7 @@ Futher more, this flask app can been hosted using AWS EC2 instance with the foll
 
 This will ensure that we do not need a local machine to access flask.
 
+The link to access hosted service: http://34.215.26.75:8080/
+
 
 
